@@ -8,10 +8,6 @@ Write a simple python program to Generate Matrix, Codeword, Hamming weight, Synd
 2. Google Colab
 # Program
 ```
-
-```
-# Output Waveform
-```
 import numpy as np
 pb = [] 
 Ik = [] 
